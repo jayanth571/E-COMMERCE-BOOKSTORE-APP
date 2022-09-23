@@ -82,6 +82,10 @@ class AboutPage extends StatelessWidget {
                               child: Container(child: Text("K BASWANTH   -     2453- 18-733-093")),
                             ),
                             Padding(
+                              padding: const EdgeInsets.all(2.0),
+                              child: Container(child: Text("K JAYANTH BHARADWAJ -  19981A0571")),
+                            ),
+                            Padding(
                               padding: const EdgeInsets.only(top:50.0),
                               child: Container(child: Text("Project Guide - Mr. K.Srinivas",)),
                             ),
